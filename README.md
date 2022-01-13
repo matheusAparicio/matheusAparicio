@@ -7,26 +7,40 @@
 - 🌱 I’m currently learning Dart/Flutter, C#, Php, Java and many others. 😅
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I create 2D games since 2015!
+
 
 <!DOCTYPE html>
 <html>
-  <head>
-  </head>
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
   
-  <body>  
-    <div class="row">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=matheusAparicio&theme=dark"/>
-    -----
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusAparicio&theme=dark"/>
-    </div>
+  
+<body>
+  
+ <!-- Actual text -->
+You can find me on [![LinkedIn][1.2]][1], or on [![Instagram][2.2]][2].
+
+<!-- Icons -->
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+ 
+<!-- Links to your social media accounts -->
+[1]: https://www.linkedin.com/in/heinz-martin/
+[2]: https://www.instagram.com/math.apr/
+
+
+<div class="row">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=matheusAparicio&theme=dark"/>
+  -----
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusAparicio&theme=dark"/>
+</div>
     
-    a placeholder line!
+  a placeholder line!
     
-  </body>
+</body>
 
 </html>
 
