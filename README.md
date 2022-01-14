@@ -55,6 +55,7 @@ You can find me on [![LinkedIn][1.2]][1], or on [![Instagram][2.2]][2].
 ![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Firebird-informational?style=for-the-badge&logo=firebird&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-DBeaver-informational?style=for-the-badge&logo=dbeaver&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Unity-informational?style=for-the-badge&logo=unity&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=2bbc8a)
