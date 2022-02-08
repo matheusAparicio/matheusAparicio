@@ -5,9 +5,6 @@
 
 - 🔭 I’m currently working on improve my skills doing some projects!
 - 🌱 I’m currently learning Dart/Flutter, C#, Php, Java and many others. 😅
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
 - ⚡ Fun fact: I create 2D games since 2015!
 
 
@@ -21,16 +18,7 @@
 <body>
   
  <!-- Actual text -->
-You can find me on [![LinkedIn][1.2]][1], or on [![Instagram][2.2]][2].
-
-<!-- Icons -->
-[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
- 
-<!-- Links to your social media accounts -->
-[1]: https://www.linkedin.com/in/matheusaps/
-[2]: https://www.instagram.com/math.apr/
-
+  You can find me on <a href="https://www.linkedin.com/in/matheusaps/">LinkedIn</a> , or on <a href="https://www.instagram.com/math.apr/">Instagram</a>.
 
 <div class="row">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=matheusAparicio&theme=dark"/>
@@ -38,26 +26,36 @@ You can find me on [![LinkedIn][1.2]][1], or on [![Instagram][2.2]][2].
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusAparicio&theme=dark"/>
 </div>
     
-  a placeholder line!
+<p>&nbsp;</p> 
     
 </body>
 
 </html>
 
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-informational?style=for-the-badge&logoColor=white&color=999999)
 
-![](https://img.shields.io/badge/Tool-MySql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-SQLite-informational?style=for-the-badge&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Firebird-informational?style=for-the-badge&logo=firebird&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-DBeaver-informational?style=for-the-badge&logo=dbeaver&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Unity-informational?style=for-the-badge&logo=unity&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CSharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=for-the-badge&logo=pycharm&logoColor=white&color=2bbc8a)
+<p>&nbsp;</p>
+
+![](https://img.shields.io/badge/Tools-informational?style=for-the-badge&logoColor=white&color=999999)
+
+![](https://img.shields.io/badge/MySql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SQLite-informational?style=for-the-badge&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Firebird-informational?style=for-the-badge&logo=firebird&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DBeaver-informational?style=for-the-badge&logo=dbeaver&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Unity-informational?style=for-the-badge&logo=unity&logoColor=white&color=2bbc8a)
+
+<p>&nbsp;</p>
+
+![](https://img.shields.io/badge/Editors-informational?style=for-the-badge&logoColor=white&color=999999)
+
+![](https://img.shields.io/badge/VSCode-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VisualStudio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/PyCharm-informational?style=for-the-badge&logo=pycharm&logoColor=white&color=2bbc8a)
 
