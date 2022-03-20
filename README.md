@@ -20,11 +20,11 @@
   
 <div class="row">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=matheusAparicio&theme=gotham&show_icons=true&count_private=true&hide_rank=true"/>
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  &emsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusAparicio&theme=gotham&layout=compact"/>
 </div>
     
-<p>&nbsp;</p> 
+<p>&nbsp;</p>
     
 </body>
 
@@ -59,5 +59,7 @@
 ![](https://img.shields.io/badge/PyCharm-informational?style=for-the-badge&logo=pycharm&logoColor=white&color=323330)
 
 <p>&nbsp;</p>
+
+My own portfolio website. Actually on `development`.
 
 ![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=matheusAparicio&repo=portfolio&show_owner=true&theme=gotham)
