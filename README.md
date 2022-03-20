@@ -20,7 +20,6 @@
   
 <div class="row">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=matheusAparicio&theme=gotham"/>
-  <&emsp;>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusAparicio&theme=gotham&layout=compact"/>
 </div>
     
