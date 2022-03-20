@@ -34,8 +34,9 @@
 
 ![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=bd9d2b)
 ![](https://img.shields.io/badge/CSharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=00a4ef)
-![](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=044F88)
 ![](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white&color=AA1117)
+![](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=044F88)
 ![](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=323330)
 
 <p>&nbsp;</p>
