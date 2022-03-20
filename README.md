@@ -19,7 +19,7 @@
   You can find me on [LinkedIn](https://www.linkedin.com/in/matheusaps/), or on [Instagram](https://www.instagram.com/math.apr/).
   
 <div class="row">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=matheusAparicio&theme=gotham&show_icons=true&count_private=true&hide_rank=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=matheusAparicio&theme=gotham&show_icons=true&count_private=true"/>
   &emsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusAparicio&theme=gotham&layout=compact"/>
 </div>
