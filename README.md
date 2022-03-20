@@ -6,29 +6,16 @@
 - ⚡ Fun fact: I create 2D games since 2015!
 ```
 
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-</head>
-  
-  
-<body>
-  
  <!-- Actual text -->
-  You can find me on [LinkedIn](https://www.linkedin.com/in/matheusaps/), or on [Instagram](https://www.instagram.com/math.apr/).
-  
-<div class="row">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=matheusAparicio&theme=gotham&show_icons=true&count_private=true"/>
-  &emsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusAparicio&theme=gotham&layout=compact"/>
-</div>
+You can find me on [LinkedIn](https://www.linkedin.com/in/matheusaps/), or on [Instagram](https://www.instagram.com/math.apr/).
+ 
+<p>&nbsp;</p>
+ 
+![Status](https://github-readme-stats.vercel.app/api/?username=matheusAparicio&theme=gotham&show_icons=true&count_private=true)
+![Code](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusAparicio&theme=gotham&layout=compact)
     
 <p>&nbsp;</p>
-    
-</body>
 
-</html>
 
 ![](https://img.shields.io/badge/Code-informational?style=for-the-badge&logoColor=white&color=323330)
 
