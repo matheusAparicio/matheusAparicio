@@ -1,10 +1,10 @@
 ### Hello!
 
-
+```
 - 🔭 I’m currently working on improve my skills doing some projects!
-- 🌱 I’m currently learning Dart/Flutter, C#, Php, Java and many others. 😅
+- 🌱 I’m currently learning Dart/Flutter, C#, Python & Java. 😅
 - ⚡ Fun fact: I create 2D games since 2015!
-
+```
 
 <!DOCTYPE html>
 <html>
@@ -16,12 +16,12 @@
 <body>
   
  <!-- Actual text -->
-  You can find me on <a href="https://www.linkedin.com/in/matheusaps/">LinkedIn</a>, or on <a href="https://www.instagram.com/math.apr/">Instagram</a>.
+  You can find me on [LinkedIn](https://www.linkedin.com/in/matheusaps/), or on [Instagram](https://www.instagram.com/math.apr/).
   
 <div class="row">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=matheusAparicio&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=matheusAparicio&theme=gotham"/>
   <&emsp;>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusAparicio&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusAparicio&theme=gotham&layout=compact"/>
 </div>
     
 <p>&nbsp;</p> 
@@ -58,3 +58,6 @@
 ![](https://img.shields.io/badge/VisualStudio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=00a4ef)
 ![](https://img.shields.io/badge/PyCharm-informational?style=for-the-badge&logo=pycharm&logoColor=white&color=323330)
 
+<p>&nbsp;</p>
+
+![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=matheusAparicio&repo=portfolio&show_owner=true&theme=gotham)
