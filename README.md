@@ -1,8 +1,8 @@
-### Hello!
+### Hello! I'm Matheus.
 
 ```
 - 🔭 I’m currently working on improve my skills doing some projects!
-- 🌱 I’m currently learning Dart/Flutter, C#, Python & Java, besides clean code and agile software. 😅
+- 🌱 I’m currently learning Dart/Flutter, C#, Python & Java. Besides S.O.L.I.D, clean code & agile software. 😅
 - ⚡ Fun fact: I create 2D games since 2015!
 ```
 
