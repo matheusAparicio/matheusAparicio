@@ -2,7 +2,7 @@
 
 ```
 - 🔭 I’m currently working on improve my skills doing some projects!
-- 🌱 I’m currently learning Dart/Flutter, C#, Python & Java. 😅
+- 🌱 I’m currently learning Dart/Flutter, C#, Python & Java, besides clean code and agile software. 😅
 - ⚡ Fun fact: I create 2D games since 2015!
 ```
 
@@ -19,7 +19,8 @@
   You can find me on [LinkedIn](https://www.linkedin.com/in/matheusaps/), or on [Instagram](https://www.instagram.com/math.apr/).
   
 <div class="row">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=matheusAparicio&theme=gotham"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=matheusAparicio&theme=gotham&show_icons=true&count_private=true&hide_rank=true"/>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusAparicio&theme=gotham&layout=compact"/>
 </div>
     
