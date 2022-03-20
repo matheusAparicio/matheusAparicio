@@ -16,7 +16,7 @@
 <body>
   
  <!-- Actual text -->
-  You can find me on <a href="https://www.linkedin.com/in/matheusaps/">LinkedIn</a> , or on <a href="https://www.instagram.com/math.apr/">Instagram</a>.
+  You can find me on <a href="https://www.linkedin.com/in/matheusaps/">LinkedIn</a>, or on <a href="https://www.instagram.com/math.apr/">Instagram</a>.
   
 <div class="row">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=matheusAparicio&theme=dark"/>
