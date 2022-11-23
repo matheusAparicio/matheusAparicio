@@ -48,7 +48,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/matheusaps/), or on [I
 
 <p>&nbsp;</p>
 
-My portfolio website sourcecode. Actually on `development`.
+My portfolio website source code. Actually on `development`.
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=matheusAparicio&repo=portfolio&show_owner=true&theme=gotham)](https://github.com/matheusAparicio/portfolio)
 
