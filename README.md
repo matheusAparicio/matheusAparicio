@@ -1,10 +1,11 @@
 ### Hello! I'm Matheus.
 
-```
-- 🔭 I’m currently working on improve my skills doing some projects!
-- 🌱 I’m currently learning Dart/Flutter, C#, Python & Java. Besides S.O.L.I.D, clean code & agile software. 😅
+
+- 🔭 I’m currently working on improve my skills doing some projects and practicing `S.O.L.I.D` concepts, `clean code` & `agile software`.
+- 💪 My main languages are `Dart/Flutter`, `C#` and `Python`. Currently learning `Javascript` with `React Native`.
+- 🌱 Currently, my main stack is `front-end`. I also enjoy `back-end`, but haven't dedicated some time to it yet.
 - ⚡ Fun fact: I create 2D games since 2015!
-```
+
 
  <!-- Actual text -->
 You can find me on [LinkedIn](https://www.linkedin.com/in/matheusaps/), or on [Instagram](https://www.instagram.com/math.apr/).
@@ -47,6 +48,8 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/matheusaps/), or on [I
 
 <p>&nbsp;</p>
 
-My own portfolio website. Actually on `development`.
+My portfolio website sourcecode. Actually on `development`.
 
-![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=matheusAparicio&repo=portfolio&show_owner=true&theme=gotham)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=matheusAparicio&repo=portfolio&show_owner=true&theme=gotham)](https://github.com/matheusAparicio/portfolio)
+
+You can check it result here: https://matheusaparicio.github.io
