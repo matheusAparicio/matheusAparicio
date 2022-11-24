@@ -6,9 +6,12 @@
 - 🌱 Currently, my main stack is `front-end`. I also enjoy `back-end`, but haven't dedicated some time to it yet.
 - ⚡ Fun fact: I create 2D games since 2015!
 
+<p>&nbsp;</p>
 
  <!-- Actual text -->
-You can find me on [LinkedIn](https://www.linkedin.com/in/matheusaps/), or on [Instagram](https://www.instagram.com/math.apr/).
+- You can find me on [LinkedIn](https://www.linkedin.com/in/matheusaps/), or on [Instagram](https://www.instagram.com/math.apr/).
+
+- My presentation website: https://matheusaparicio.github.io/
  
 <p>&nbsp;</p>
  
@@ -48,8 +51,4 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/matheusaps/), or on [I
 
 <p>&nbsp;</p>
 
-My portfolio website source code. Actually on `development`.
-
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=matheusAparicio&repo=portfolio&show_owner=true&theme=gotham)](https://github.com/matheusAparicio/portfolio)
-
-You can check it result here: https://matheusaparicio.github.io
