@@ -8,9 +8,6 @@
 
 <p>&nbsp;</p>
 
- <!-- Actual text -->
-- You can find me on [LinkedIn](https://www.linkedin.com/in/matheusaps/), or on [Instagram](https://www.instagram.com/math.apr/).
-
 - My presentation website: https://matheusaparicio.github.io/
  
 <p>&nbsp;</p>
