@@ -3,7 +3,7 @@
 
 - I strongly look after developing efficient, legible and reutilisable code, applying concepts like `clean code` and `agile software`.
 - My main languages are `Dart/Flutter` for frontend and, for backend, `PHP` with `Laravel` for developing API's and `PostgreSQL` for databases. Besides that, i have experience with many other languages and technologies.
-- I'm a `fullstack` developer, with most of my experience being with `frontend`.
+- I'm a `fullstack` developer, with most of my experience being with `mobile`.
 - My first programming experience was in `2012` in a web design course, in `2015` i've began to develop 2D games and in `2021` my professional career had it start.
 
 <p>&nbsp;</p>
